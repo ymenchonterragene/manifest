@@ -7,7 +7,7 @@
   <remote name="var-github" fetch="https://github.com/varigit/"/>
   <remote name="android-imx" fetch="https://source.codeaurora.org/external/imx/aosp/"/>
   
-  <project name="terra-device-name" path="device/terragene/" remote="terra-y" revision="1c4d9fd56f2543945fd96a64f71d5f89b8b23653"/>
+  <project name="terra-device-android" path="device/terragene/" remote="terra-y" revision="1c4d9fd56f2543945fd96a64f71d5f89b8b23653"/>
   <project name="terra_driver" path="driver" remote="terra-m" revision="terraluminometro"/>
   <project path="device/variscite/" name="MX6x-android" remote="var-github" revision="android-11.0.0_2.4.0-var01"/>
   <project path="device/generic/car" name="device/generic/car" groups="pdk" remote="android-imx" revision="refs/tags/android-11.0.0_2.4.0"/>

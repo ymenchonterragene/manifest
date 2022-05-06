@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <include name="manifest1.xml"/>
+
+  <remote name="terra-y" fetch="https://github.com/ymenchonterragene/"/>
+  
+  <project name="terra-device-android" path="device/terragene/" remote="terra-y" revision="1c4d9fd56f2543945fd96a64f71d5f89b8b23653"/>
+ 
+</manifest>  

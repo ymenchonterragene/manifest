@@ -5,8 +5,8 @@
   <remote name="terra" fetch="https://source.developers.google.com/p/aosp-electronic/r/"/>
   <remote name="ym-github" fetch="https://github.com/ymenchonterragene/"/>
 
-  <project name="test-repo" path="test" remote="terra" revision="master" group="terragene"/>
+  <project name="test-repo" path="test" remote="terra" revision="master" groups="terragene"/>
   <project name="terra_driver" path="driver" remote="ym-github" revision="develop"/>
-  <project name="hello-world-mati" path="hwm" remote="terra" revision="master" group="terragene"/>
+  <project name="hello-world-mati" path="hwm" remote="terra" revision="master" groups="terragene"/>
   
 </manifest> 

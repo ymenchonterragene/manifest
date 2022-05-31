@@ -2,8 +2,8 @@
 
 <manifest>
 
-  <remote name="terra-m" fetch="https://github.com/mgiordano87/" pushurl="https://github.com/ymenchonterragene"/>
+  <remote name="terra" fetch="https://source.cloud.google.com/aosp-electronic/"/>
   
-  <project name="terra_driver" path="driver" remote="terra-m" revision="terraluminometro" />
+  <project name="hello-world-mati" path="hwm" remote="terra" revision="main" />
   
 </manifest>  

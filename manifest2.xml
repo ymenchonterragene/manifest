@@ -7,5 +7,7 @@
   <remote name="terra" fetch="https://source.cloud.google.com/aosp-electronic/"/>
   
   <project name="test-repo" path="test" remote="terra" revision="main"/>
+  
+  <project name="terra_driver" path="t-d" remote="terra" revision="master" />
  
 </manifest>  

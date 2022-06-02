@@ -2,8 +2,8 @@
 
 <manifest>
 
-  <remote name="terra" fetch="https://source.cloud.google.com/aosp-electronic/"/>
+  <remote name="terra-git" fetch="https://github.com/ymenchonterragene/"/>
   
-  <project name="hello-world-mati" path="hwm" remote="terra" revision="main" />
+  <project name="terra_driver" path="t-d" remote="terra" revision="develop" />
   
 </manifest>  

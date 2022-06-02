@@ -4,6 +4,6 @@
 
   <remote name="terra-git" fetch="https://github.com/ymenchonterragene/"/>
   
-  <project name="terra_driver" path="t-d" remote="terra" revision="develop" />
+  <project name="terra_driver" path="t-d" remote="terra-git" revision="develop" />
   
 </manifest>  
